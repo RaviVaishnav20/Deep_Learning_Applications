@@ -2,20 +2,17 @@
 
 
 ## Target:
-## Create Mini ResNet architecture of 16 layer
-## Save model after training to Googlr Drive
-## Apply Image augmentation (transforms.Pad(4),
-                                 transforms.RandomHorizontalFlip(),
-                                 transforms.RandomCrop(32),
-                                 )
-## Decay the learning rate by a factor of 0.5 every 20 epochs
-# Results:
-## Parameters: 195,738
-## Best Train Accuracy: 91.340
-## Best Test Accuracy: 86.38
-# Analysis:
-## Good model!
-## We see some over-fitting
+#### Create Mini ResNet architecture of 16 layer
+#### Save model after training to Googlr Drive
+#### Apply Image augmentation (transforms.Pad(4),transforms.RandomHorizontalFlip(),transforms.RandomCrop(32))
+#### Decay the learning rate by a factor of 0.5 every 20 epochs
+## Results:
+#### Parameters: 195,738
+#### Best Train Accuracy: 91.340
+####  Best Test Accuracy: 86.38
+## Analysis:
+####  Good model!
+#### We see some over-fitting
 
 ## ResNet Architecture
 
