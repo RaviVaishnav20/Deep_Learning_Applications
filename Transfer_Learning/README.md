@@ -8,8 +8,8 @@
 #### Use StepLR from 'torch.optim.lr_scheduler' to Decay learning rate by a factor 0.1 after every 7 epochs
 ## Results:
 #### Parameters: 11,177,538
-#### Best Train Accuracy: 88
-####  Best Test Accuracy: 92.81
+#### Best Train Accuracy: 87
+####  Best Test Accuracy: 94.77
 ## Analysis:
 ####  Good model!
 #### No overfitting
