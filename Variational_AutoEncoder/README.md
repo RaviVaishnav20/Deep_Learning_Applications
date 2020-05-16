@@ -17,10 +17,18 @@
 ![Reconstructed Image 2](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/reconstruction_50.png)
 
 #### Sample Image generated using Decoder at first epoch
-![Reconstructed Image](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/sample_1.png)
+![Sample Image](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/sample_1.png)
 
 #### Sample Image generated using Decoder at 50 epoch
-![Reconstructed Image](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/sample_50.png)
+![Sample Image](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/sample_50.png)
+
+## Losses
+
+#### Average Losses at  first epoch
+![Loss 1](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/AVG_LOSS_EPOCH1.PNG)
+
+#### Average Losses at fifty epoch
+![Loss 50](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/AVG_LOSS_EPOCH1.PNG)
 
 
 
