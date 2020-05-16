@@ -27,5 +27,8 @@
 #### Average Losses at  first epoch
 ![Loss 1](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/AVG_LOSS_EPOCH1.PNG)
 
+#### Average Losses at  fifty epoch
+![Loss 1](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Variational_AutoEncoder/AVG_LOSS_EPOCH50.PNG)
+
 
 
