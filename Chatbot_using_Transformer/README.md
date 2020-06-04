@@ -35,29 +35,21 @@ movie_characters_metadata.txt and movie_titles_metadata.txt respectively.
 
 ## Formula and Architecture
 
-![Positional Encoding]
-(https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/Positional_encoding_formula.PNG)
+![Positional Encoding](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/Positional_encoding_formula.PNG)
 
-![Scaled dot product attention]
-(https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/attention_softmax.PNG)
+![Scaled dot product attention](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/attention_softmax.PNG)
 
-![Optimizer]
-(https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/optimizer.PNG)
+![Optimizer](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/optimizer.PNG)
 
-![Transformer]
-(https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/transformer_architecture.png)
+![Transformer](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/transformer_architecture.png)
 
-![Encoder Layer]
-(https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/Encoder.png)
+![Encoder Layer](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/Encoder.png)
 
-![Decoder Layer]
-(https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/Decoder.png)
+![Decoder Layer](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/Decoder.png)
 
-![Training Losses]
-(https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/training_loses.PNG)
+![Training Losses](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/training_loses.PNG)
 
-![Chatbot Action]
-(https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/evaluate.PNG)
+![Chatbot Action](https://github.com/RaviVaishnav20/Deep_Learning_Applications/blob/master/Chatbot_using_Transformer/images/evaluate.PNG)
 
 
 
